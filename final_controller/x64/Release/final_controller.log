@@ -1,0 +1,52 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(460,5): warning MSB8029: The Intermediate directory or Output directory cannot reside under the Temporary directory as it could lead to issues with incremental build.
+  final_controller.c
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(85,28): error C2143:  语法错误: 缺少“;”(在“{”的前面)
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(86,29): error C2065:  “seconds”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(94,29): error C2143:  语法错误: 缺少“;”(在“{”的前面)
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(96,50): error C2065:  “position”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(99,36): error C2143:  语法错误: 缺少“;”(在“{”的前面)
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(102,50): error C2065:  “position”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(103,50): error C2065:  “position”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(106,34): error C2143:  语法错误: 缺少“;”(在“{”的前面)
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(107,48): error C2065:  “speed”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(108,49): error C2065:  “speed”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(109,47): error C2065:  “speed”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(110,48): error C2065:  “speed”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(113,31): error C2143:  语法错误: 缺少“;”(在“{”的前面)
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(114,48): error C2065:  “speed”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(115,50): error C2065:  “speed”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(116,47): error C2065:  “speed”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(117,49): error C2065:  “speed”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(120,30): error C2143:  语法错误: 缺少“;”(在“{”的前面)
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(121,49): error C2065:  “speed”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(122,49): error C2065:  “speed”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(123,48): error C2065:  “speed”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(124,48): error C2065:  “speed”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(127,28): error C2143:  语法错误: 缺少“;”(在“{”的前面)
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(132,15): error C2065:  “seconds”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(136,23): error C2143:  语法错误: 缺少“;”(在“{”的前面)
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(157,27): error C2143:  语法错误: 缺少“;”(在“{”的前面)
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(162,10): error C2065:  “i”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(162,17): error C2065:  “i”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(162,41): error C2065:  “i”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(163,40): error C2065:  “i”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(163,51): error C2065:  “i”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(164,6): error C2065:  “k”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(164,19): error C2065:  “i”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(165,11): error C2065:  “k”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(165,25): error C2065:  “k”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(168,10): error C2065:  “k”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(171,10): error C2065:  “k”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(174,20): error C2065:  “k”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(179,44): error C2065:  “M_PI”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(212,6): error C2065:  “a”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(216,9): error C2065:  “a”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(217,5): error C2065:  “b”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(252,10): error C2065:  “b”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(252,23): error C2065:  “b”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(271,24): error C2065:  “a”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(272,24): error C2065:  “b”: 未声明的标识符
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(292,1): error C2059:  语法错误:“while”
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(425,1): error C2371:  “wb_robot_cleanup”: 重定义；不同的基类型
+C:\Users\10901\AppData\Local\Programs\Webots\include\controller\c\webots\robot.h(81): message :  参见“wb_robot_cleanup”的声明
+C:\Users\10901\Desktop\courses\tdps\controllers\final_controller\final_controller.c(427,1): error C2059:  语法错误:“return”
